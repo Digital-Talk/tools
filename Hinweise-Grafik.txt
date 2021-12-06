@@ -1,0 +1,13 @@
+
+Hinweise für Grafiker
+---------------------
+
+Die Logo Grafik im Hauptteil der DT muss folgende Anforderungen erfüllen:
+
+- Multicolor
+- 3 Farben + Hintergrundfarbe. Letztere Schwarz.
+- Vom Logo wird die gesamte Breite (160 Pixel) und 63 Pixel in der Höhe
+  angezeigt (das sind nicht ganz 8 Textzeilen)
+- Das Logo wird in der DT als Zeichensatzgrafik angezeigt, dazu wird das Logo
+  in einen Zeichensatz und "Text" konvertiert. Damit das funktioniert dürfen
+  im Logo nur 256 verschiedene 8x8 Blöcke (=Zeichen) vorhanden sein.
