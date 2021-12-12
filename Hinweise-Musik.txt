@@ -1,0 +1,9 @@
+
+Hinweise für Musiker
+--------------------
+
+Musik die im Magsystem benutzt werden kann muss folgende Bedingungen erfüllen:
+
+- Speicher benutzt von $1000 bis max. $1fff
+- init bei $1000
+- play bei $1003
