@@ -1,0 +1,26 @@
+1.) Wo kann ich Artikel einreichen?
+
+Ausschließlich per E-Mail an thunderbird@c64clubberlin.de
+
+Der FTP-Upload von Artikeln über das DT Converter Studio kann nicht mehr genutzt werden.
+Was immer da hochgeladen wird, landet nicht bei uns.
+
+
+2.) Artikel und andere Texte (News, Gesuche, An)
+
+Die Texte könnt Ihr gerne in folgenden Formaten einreichen:
+
+- .TXT (Text)
+- .PRG (C64 DT-Format)
+
+Zur Erstellung von TXT-Dateien könnt ihr einen beliebigen Texteditor auf einem System eurer Wahl nehmen.
+Eine Vorformatierung auf 40-Zeichen ist jetzt nicht mehr notwendig. Wir erstellen beim Konvertieren automatische Zeilenumbrüche.
+Wenn ihr ein besonderes Interesse an der Einrückung eurer Textzeilen habt, könnt ihr aber natürlich weiterhin mit 40-Zeichen arbeiten.
+
+Zur Erstellung eines .PRG eignen sich zur Zeit:
+
+der DT Editor 6.99 (C64/C128)
+der Textconvert V. 1.0 (C64/C128)
+das Tool txt2dt 2.0.3 (Windows)
+
+Bitte keine Dateien des Windows-Programms DT Converter Studio (.dtc, .dtcp) mehr einreichen.
