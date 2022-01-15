@@ -2,6 +2,9 @@
 Hinweise für Grafiker
 ---------------------
 
+Logos:
+------
+
 Die Logo Grafik im Hauptteil der DT muss folgende Anforderungen erfüllen:
 
 - Multicolor
@@ -11,3 +14,19 @@ Die Logo Grafik im Hauptteil der DT muss folgende Anforderungen erfüllen:
 - Das Logo wird in der DT als Zeichensatzgrafik angezeigt, dazu wird das Logo
   in einen Zeichensatz und "Text" konvertiert. Damit das funktioniert dürfen
   im Logo nur 256 verschiedene 8x8 Blöcke (=Zeichen) vorhanden sein.
+
+Big Picture:
+------------
+
+Ein "Big Picture" ist eine ganzseitige monochrome Grafik, die zu Beginn eines Artikels angezeigt werden kann. Technisch handelt es sich um reine Bitmaps in der Größe des Bildschirms.
+
+Wir können gängige Bilddateien für Euch zu einem Big Picture konvertieren, um sie dann in euren Artikel zu integrieren. Dafür braucht es eine Datei mit:
+
+- 320x200 Pixel
+- .PNG-Format
+- 2-farbig
+
+Hintergrund Kacheln:
+--------------------
+
+Die Hintergrund Kachel ist ein 40x48 pixel grosser Multicolor Grafikblock, der im Intro der Digital Talk mehrfach nebeneinander kopiert dargestellt wird.
