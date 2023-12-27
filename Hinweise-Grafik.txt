@@ -8,9 +8,9 @@ Logos:
 Die Logo Grafik im Hauptteil der DT muss folgende Anforderungen erfüllen:
 
 - Multicolor
-- 3 Farben + Hintergrundfarbe. Letztere Schwarz.
-- Vom Logo wird die gesamte Breite (160 Pixel) und 63 Pixel in der Höhe
-  angezeigt (das sind nicht ganz 8 Textzeilen)
+- 3 Farben + Hintergrundfarbe. Letztere Schwarz, in Ausnahmefällen weiß --> Rahmenfarbe muss angepasst werden
+- Vom Logo wird die gesamte Breite (160 Pixel) und 64(!) Pixel in der Höhe
+  *angezeigt* (das sind 8 ganze Textzeilen), während der untere Rest der Logovorlage ignoriert wird
 - Das Logo wird in der DT als Zeichensatzgrafik angezeigt, dazu wird das Logo
   in einen Zeichensatz und "Text" konvertiert. Damit das funktioniert dürfen
   im Logo nur 256 verschiedene 8x8 Blöcke (=Zeichen) vorhanden sein.
@@ -18,7 +18,7 @@ Die Logo Grafik im Hauptteil der DT muss folgende Anforderungen erfüllen:
 Big Picture:
 ------------
 
-Ein "Big Picture" ist eine ganzseitige monochrome Grafik, die zu Beginn eines Artikels angezeigt werden kann. Technisch handelt es sich um reine Bitmaps in der Größe des Bildschirms.
+Ein "Big Picture" ist eine ganzseitige monochrome Grafik, die zu Beginn eines Artikels (^titlepic) oder im Text (^pagepic) angezeigt werden kann. Technisch handelt es sich um reine Bitmaps in der Größe des Bildschirms.
 
 Wir können gängige Bilddateien für Euch zu einem Big Picture konvertieren, um sie dann in euren Artikel zu integrieren. Dafür braucht es eine Datei mit:
 
@@ -26,7 +26,7 @@ Wir können gängige Bilddateien für Euch zu einem Big Picture konvertieren, um
 - .PNG-Format
 - 2-farbig
 
-Hintergrund Kacheln:
+Hintergrund-Kacheln:
 --------------------
 
-Die Hintergrund Kachel ist ein 40x48 pixel grosser Multicolor Grafikblock, der im Intro der Digital Talk mehrfach nebeneinander kopiert dargestellt wird.
+Die Hintergrund-Kachel ist ein 40x48 Pixel großer Multicolor-Grafikblock, der im Intro der Digital Talk mehrfach nebeneinander kopiert dargestellt wird.
