@@ -1,6 +1,6 @@
 1.) Wo kann ich Artikel einreichen?
 
-Ausschließlich per E-Mail an thunderbird@c64clubberlin.de
+Ausschließlich per E-Mail an redax@digitaltalk.at
 
 Der FTP-Upload von Artikeln über das DT Converter Studio kann nicht mehr genutzt werden.
 Was immer da hochgeladen wird, landet nicht bei uns.
